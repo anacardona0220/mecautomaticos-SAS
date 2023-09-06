@@ -1,0 +1,46 @@
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+  }
+
+  #root{
+    background-color: #c8c8c8;
+  }
+
+  body{
+  background-color: #b5b5b5;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.element-barra {
+  background-color: #4a9ae9;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  height: 50px;
+  
+}
+
+.element-barra .box{
+  background-color: #c8c8c8;
+  flex: 0.2;
+}
+
+.container-nosotros1{
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  height: 100vh;
+
+}
+
+.title-nosotros1{
+  font-size: 2rem;
+}
+
