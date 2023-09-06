@@ -31,16 +31,39 @@
 }
 
 .container-nosotros1{
-  background-color: bisque;
+  background-color: #c8c8c8;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: row;
-  height: 100vh;
+  
 
 }
 
 .title-nosotros1{
   font-size: 2rem;
+  background-color: #4a9ae9;
+  display: flex;
+  margin: 20px;
+  
+  
+}
+
+.container-mv{
+  background-color: #4a9ae9;
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+}
+
+.container-objetivos{
+  background-color: #4a9ae9;
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+}
+
+.image-mv{
+  width: 300px;
 }
 

@@ -6,7 +6,7 @@ import ImageObjetivos from "./imageObjetivos";
 const Nosotros1 = () => {
   return (
     <div className="container-nosotros1">
-      <h1 className="title-nosotros1">Nosotros</h1>
+      {/* <h1 className="title-nosotros1">Nosotros</h1> */}
       <div>
         <Mv />
         <ImageMv />
