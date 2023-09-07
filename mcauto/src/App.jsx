@@ -8,11 +8,10 @@ function App() {
 
   return (
     <>
-      <Header />
-      <h1>Mecautomaticos S.A.S</h1>
+      {/* <Header /> */}
       <hr />
       <Barra />
-      <Nosotros1 />
+      {/* <Nosotros1 /> */}
      
     </>
    
